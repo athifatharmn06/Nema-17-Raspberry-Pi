@@ -45,8 +45,8 @@ This guide provides a concise overview of connecting the DRV8825 stepper motor d
 ## Current Setting
 - Set the maximum current limit before attaching the motor.
 - The maximum current limit (I) is calculated as:
-$$ I = V_{\text{ref}} \times 2 $$
+Max Current (I) = Vref x 2
 
 ---
 
-###__Remember to always power off the motor supply before connecting or disconnecting the motor to prevent damage to the driver. For detailed schematics and code examples, refer to the official documentation or example projects.__
+__Remember to always power off the motor supply before connecting or disconnecting the motor to prevent damage to the driver. For detailed schematics and code examples, refer to the official documentation or example projects.__
