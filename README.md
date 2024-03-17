@@ -49,7 +49,4 @@ $$ I = V_{\text{ref}} \times 2 $$
 
 ---
 
-Remember to always power off the motor supply before connecting or disconnecting the motor to prevent damage to the driver. For detailed schematics and code examples, refer to the official documentation or example projects.
-
-Source: Conversation with Bing, 3/17/2024
-(1) undefined. https://agisoft.freshdesk.com/support/solutions/articles/31000153503-dem-generation-geographic-and-planar-projections-.
+###__Remember to always power off the motor supply before connecting or disconnecting the motor to prevent damage to the driver. For detailed schematics and code examples, refer to the official documentation or example projects.__
