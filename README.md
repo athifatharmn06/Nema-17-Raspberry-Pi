@@ -9,8 +9,6 @@ sudo apt-get update && sudo apt-get upgrade
 use the PiGPIO library which provides hardware based PWM timing.<br>
 sudo pigpiod
 
-Certainly! Here's a clearer and more structured version of the DRV8825 wiring instructions, formatted for a GitHub README.md file:
-
 ---
 
 # DRV8825 Stepper Motor Driver Connection Guide
