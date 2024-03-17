@@ -1,6 +1,7 @@
 # Nema-17-Raspberry-Pi
 ## Interfacing Stepper Motor Nema-17 in Raspberry Pi
 
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
 
 Always Make Sure Pi is up to date<br>
 sudo apt-get update && sudo apt-get upgrade
